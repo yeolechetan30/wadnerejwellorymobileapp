@@ -1,6 +1,6 @@
-# wadnere
+# wadnerejwellorymobileapp
 
-A new Flutter project.
+A new Flutter project for Wadnere Jewellery.
 
 ## Getting Started
 
